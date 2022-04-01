@@ -3,4 +3,5 @@ SEPR is a team-based module at University Of York that attempts to promote indep
 
 All infromation regarding development and product releases avalaible here: https://gm-martin.github.io/
 
+![image](https://user-images.githubusercontent.com/102822408/161335202-e8272e71-daa9-4024-a6a1-c0d3f5bc4e59.png)
 
